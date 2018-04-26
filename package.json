@@ -5,9 +5,13 @@
     "@rails/webpacker": "3.4",
     "babel-preset-react": "^6.24.1",
     "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1",
+    "popper.js": "^1.14.3",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
-    "react-dom": "^16.3.2"
+    "react-dom": "^16.3.2",
+    "webpacker-react": "^0.3.2"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
